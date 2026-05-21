@@ -1,1 +1,2 @@
-Git project directory
+My first readme
+this is so stressing but cool
